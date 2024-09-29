@@ -1,7 +1,6 @@
 # bloc_test
 
-A new Flutter project.
-
+Dart dili ile yazılmıştır.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
